@@ -7,7 +7,7 @@ Performance measurement and target-setting are important to the growth process. 
 
 **Actual Revenue & Bugdet:**
 
-1. [What is the total Revenue of the company this year?](#What-is-the-total-Revenue-of-the company-this-year?)
+1. [What is the total Revenue of the company this year?](https://github.com/dieuthihongdieu/Data_Exploration#1--what-is-the-total-revenue-of-the-company-this-year)
 2. What is the total Revenue Performance YoY?
 3. What is the MoM Revenue Performance?
 4.  What is the Total Revenue Vs Target performance for the Year?
@@ -23,7 +23,7 @@ Performance measurement and target-setting are important to the growth process. 
 11.  Which opportunity has the highest potential and what are the details?
 12.  Which account generates the most revenue per marketing spend for this month?
 
-## 1.  What is the total Revenue of the company this year?
+##  What is the total Revenue of the company this year?
 
 ```SQL
 SELECT --Month_ID,
